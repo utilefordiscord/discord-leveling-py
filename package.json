@@ -10,6 +10,7 @@
   "author": "Semiak",
   "license": "AGPL-3.0",
   "dependencies": {
-    "discord-leveling": "^1.0.3"
+    "discord-leveling": "^1.0.3",
+    "sequelize": ">=5.3.0"
   }
 }
