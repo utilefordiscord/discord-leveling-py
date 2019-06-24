@@ -1,0 +1,12 @@
+{
+  "name": "discord-leveling-py",
+  "version": "1.0.0",
+  "description": "Discord Leveling Library wrapper for Python",
+  "main": "discord-library-wrapper.js",
+  "scripts": {
+    "start": "node discord-leveling-wrapper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Semiak",
+  "license": "AGPL-3.0"
+}
